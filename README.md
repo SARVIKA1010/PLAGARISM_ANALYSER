@@ -14,7 +14,8 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the OUTPUT:
-     <https://github.com/user-attachments/assets/ca28da74-a775-4c0e-8a03-bcebc4e5db00/>
+     ![OUTPUT](<img src="https://github.com/user-attachments/assets/ad2b0360-e6a5-4aea-b3f9-82f9bf116f08" />
+)
 ---
 ## FEATURES :
     - Paste text and check plagiarism instantly  
