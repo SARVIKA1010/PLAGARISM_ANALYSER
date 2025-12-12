@@ -14,7 +14,7 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the UI:
-    [Plagiarism Analyzer Output]<img width="720" height="785" alt="OUTPUT" src="https://github.com/user-attachments/assets/29fc9f86-2885-4cca-a317-1d1bad638110" />
+     ![PLAGARISM ANALYSER]<img width="720" height="785" alt="OUTPUT" src="https://github.com/user-attachments/assets/d51a4386-daaa-49b8-bb56-dc8fdbed6e98" />
 ---
 ## FEATURES :
     - Paste text and check plagiarism instantly  
