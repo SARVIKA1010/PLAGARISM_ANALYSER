@@ -13,9 +13,8 @@
         - Doughnut chart showing plagiarized vs unique content
 ---
 ## DEMO OUPUT :
-     Below is a preview of the UI:
-     ![Live Output](<img width="720" height="785" alt="OUTPUT" src="https://github.com/user-attachments/assets/9e222de8-add6-4a6f-b5a0-c7392bb7b036" />
-)
+     Below is a preview of the OUTPUT:
+     <https://github.com/user-attachments/assets/9e222de8-add6-4a6f-b5a0-c7392bb7b036" />
 ---
 ## FEATURES :
     - Paste text and check plagiarism instantly  
