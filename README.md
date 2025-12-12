@@ -12,13 +12,6 @@
         - Detailed similarity report for each document
         - Doughnut chart showing plagiarized vs unique content
 ---
-## DEMO OUPUT :
-     Below is a preview of the OUTPUT:
-     ![OUTPUT]<img width="713" height="788" alt="image" src="https://github.com/user-attachments/assets/181d20e9-107d-4538-be00-afc6842e4210" />
-
-
-
----
 ## FEATURES :
     - Paste text and check plagiarism instantly  
     - F-IDF & cosine similarity-based NLP analysis  
@@ -101,3 +94,4 @@
         - Document-wise similarity breakdown, listing how much of the text matches other documents.
         - A clear and interactive web interface that helps users quickly understand the originality of their content.
     This output helps users easily identify copied sections and evaluate the uniqueness of their text.
+---
