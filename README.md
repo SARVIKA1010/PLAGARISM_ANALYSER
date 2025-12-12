@@ -14,7 +14,7 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the OUTPUT:
-     <https://github.com/user-attachments/assets/9e222de8-add6-4a6f-b5a0-c7392bb7b036" />
+     <https://github.com/user-attachments/assets/ca28da74-a775-4c0e-8a03-bcebc4e5db00/>
 ---
 ## FEATURES :
     - Paste text and check plagiarism instantly  
