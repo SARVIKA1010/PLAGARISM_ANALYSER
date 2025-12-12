@@ -14,8 +14,7 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the OUTPUT:
-     [OUTPUT]https://github.com/SARVIKA1010/PLAGARISM_ANALYSER/blob/main/OUTPUT.png
-
+     ![OUTPUT](https://raw.githubusercontent.com/SARVIKA1010/PLAGARISM_ANALYSER/main/OUTPUT.png)
 
 
 ---
