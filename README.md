@@ -14,7 +14,8 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the OUTPUT:
-     [OUTPUT]<img width="720" height="785" alt="image" src="https://github.com/user-attachments/assets/53931c73-bce0-4208-924e-71c29eb1ae22" />
+     [OUTPUT](https://github.com/user-attachments/assets/e1669c68-8169-4bfc-9b3c-40d08b8186bd)
+
 
 ---
 ## FEATURES :
