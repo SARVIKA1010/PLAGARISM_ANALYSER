@@ -14,7 +14,8 @@
 ---
 ## DEMO OUPUT :
      Below is a preview of the OUTPUT:
-     ![OUTPUT]([https://raw.githubusercontent.com/SARVIKA1010/PLAGARISM_ANALYSER/main/OUTPUT.png](http://127.0.0.1:5000/))
+     ![OUTPUT]<img width="713" height="788" alt="image" src="https://github.com/user-attachments/assets/181d20e9-107d-4538-be00-afc6842e4210" />
+
 
 
 ---
