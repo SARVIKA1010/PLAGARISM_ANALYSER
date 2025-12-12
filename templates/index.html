@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Analyzer using NLP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Plagiarism Analyzer</h1>
+            <p>Check your document for plagiarism using NLP</p>
+        </header>
+
+        <section class="upload-section">
+            <form id="plagiarismForm">
+                <label for="textInput">Paste your text here:</label>
+                <textarea id="textInput" placeholder="Enter text to analyze..." required></textarea>
+                <button type="submit">Analyze Plagiarism</button>
+            </form>
+        </section>
+
+        <section class="result-section">
+            <h2>Analysis Result</h2>
+            <div class="result-card" id="resultCard">
+                <p class="percentage">Plagiarism: <span id="plagiarismPercentage">0%</span></p>
+                <div class="chart-container">
+                    <canvas id="plagiarismChart"></canvas>
+                </div>
+                <div id="detailedReport"></div>
+            </div>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
